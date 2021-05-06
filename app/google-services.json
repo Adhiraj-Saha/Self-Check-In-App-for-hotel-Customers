@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371628985133",
+    "project_id": "multi-screen-app-eda75",
+    "storage_bucket": "multi-screen-app-eda75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371628985133:android:54a83891c17d1cc551a1a4",
+        "android_client_info": {
+          "package_name": "com.example2.selfcheckinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371628985133-dgbpq48jltt7abc0ak5ghbn0dleviiad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example2.selfcheckinapp",
+            "certificate_hash": "f1bf0966a258a2355bb31dcff8e2874f570558e4"
+          }
+        },
+        {
+          "client_id": "371628985133-72hpr5gqg9e40pt52q3e7c2d1v64f83d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1R54mUwaeM-h19EI8wJzDx1C-k3mBUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371628985133-72hpr5gqg9e40pt52q3e7c2d1v64f83d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
